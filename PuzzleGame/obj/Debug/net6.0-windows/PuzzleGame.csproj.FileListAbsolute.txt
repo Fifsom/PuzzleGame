@@ -1,0 +1,51 @@
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+C:\Egna projekt\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+D:\Från Cdisken\Skolan\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+D:\FrånCdisken\Abdullahi\Games\01-PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
